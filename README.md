@@ -1,10 +1,12 @@
 # README:
+---
+## Deep Learning and Chemometrics: Quantitative and Qualitative Spectroscopy Interpretation of Aqueous Solutions
+##### Colin Murphy; CS 615 Deep Learning - Spring 2020
+---
+[Download copy of the final paper for analysis details](CS615_Project__CM.pdf)
 
-### CS 615 Deep Learning - Spring 2020
-### Final Project
-### Colin Murphy
-<br>
-#### PACKAGES NEEDED:NumPy, Matplotlib, Pandas, Keras, Sklern, TensorFlow (backend)
+#### Packages Needed:
+ - NumPy, Matplotlib, Pandas, Keras, Sklern, TensorFlow (backend)
 
 #### Code for cleaning of the original .txt files (provided by the International Diffuse Reflectance Conference) is performed in "NIR_DATA_CLEAN.py"; however, you do not need to execute the script, as the cleaned csv datasets have been included in this distribution (within data folder).
 
